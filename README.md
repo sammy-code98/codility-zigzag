@@ -60,3 +60,6 @@ To solve this problem using JavaScript, I implemented a recursive solution where
 
 
 This method ensures that I explore all possible paths from the root downwards, keeping track of the zigzag length, and return the maximum length found. Remember, since I can't execute code, the example usage here is hypothetical to illustrate how I might test the function.
+
+
+https://app.codility.com/demo/results/training3SXWU5-M69/
